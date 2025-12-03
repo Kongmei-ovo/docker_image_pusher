@@ -1,2 +1,2 @@
 openlistteam/openlist
-ghcr.io/open-webui/open-webui:main
+lobehub/lobe-chat
