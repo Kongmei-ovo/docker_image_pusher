@@ -1,4 +1,3 @@
 openlistteam/openlist
-lobehub/lobe-chat
 lscr.io/linuxserver/qbittorrent
 shenxianmq/symedia:latest
