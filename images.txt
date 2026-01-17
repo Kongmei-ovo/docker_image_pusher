@@ -3,3 +3,4 @@ lscr.io/linuxserver/qbittorrent
 shenxianmq/symedia:latest
 emby/embyserver
 cloudnas/clouddrive2
+shenxianmq/fastemby:latest
