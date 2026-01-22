@@ -4,3 +4,4 @@ shenxianmq/symedia:latest
 emby/embyserver
 cloudnas/clouddrive2
 shenxianmq/fastemby:latest
+blinkospace/blinko:latest
