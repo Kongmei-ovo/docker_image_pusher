@@ -6,3 +6,4 @@ cloudnas/clouddrive2
 shenxianmq/fastemby:latest
 blinkospace/blinko:latest
 lkw199711/smanga-nodejs
+vaultwarden/server:latest
