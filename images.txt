@@ -7,3 +7,5 @@ shenxianmq/fastemby:latest
 blinkospace/blinko:latest
 lkw199711/smanga-nodejs
 vaultwarden/server:latest
+ghcr.io/flaresolverr/flaresolverr:latest
+lscr.io/linuxserver/jackett:latest
