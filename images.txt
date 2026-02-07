@@ -11,3 +11,4 @@ ghcr.io/flaresolverr/flaresolverr:latest
 lscr.io/linuxserver/jackett:latest
 wushuo894/ani-rss:latest
 imaliang/cloud-media-sync:latest
+zyao89/clash-with-dashboard
