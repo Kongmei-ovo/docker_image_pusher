@@ -4,13 +4,9 @@ shenxianmq/symedia:latest
 emby/embyserver
 cloudnas/clouddrive2
 shenxianmq/fastemby:latest
-blinkospace/blinko:latest
 lkw199711/smanga-nodejs
 vaultwarden/server:latest
-ghcr.io/flaresolverr/flaresolverr:latest
-lscr.io/linuxserver/jackett:latest
 wushuo894/ani-rss:latest
 imaliang/cloud-media-sync:latest
-zyao89/clash-with-dashboard
 metacubex/mihomo:latest
 ghcr.io/metacubex/yacd-meta:latest
