@@ -10,4 +10,3 @@ wushuo894/ani-rss:latest
 imaliang/cloud-media-sync:latest
 metacubex/mihomo:latest
 ghcr.io/metacubex/yacd-meta:latest
-ghcr.io/metacubex/metacubexd
